@@ -5,7 +5,7 @@ var WebSocket = require('ws');
 var params = new Params({
     host: 'localhost',
     protocol: 'ws',
-    path: '' // some path like "/ws"
+    path: '/' // some path like "/ws"
   });
   
 var opts = params.getOpts();

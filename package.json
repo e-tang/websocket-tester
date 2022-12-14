@@ -22,6 +22,6 @@
   "homepage": "https://github.com/e-tang/websocket-tester#readme",
   "dependencies": {
     "node-programmer": "^0.0.26",
-    "ws": "^8.8.1"
+    "ws": "^8.11.0"
   }
 }
